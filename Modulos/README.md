@@ -1,4 +1,5 @@
-** Crie um arquivo com uma estrutura HTML padrão;
+# Atividade modulos
+* Crie um arquivo com uma estrutura HTML padrão;
 * Crie dois arquivos .js ou .mjs, um chamado funcoes e outro chamado main;
 No arquivo funcoes:
 * Crie uma função chamada mostraIdade, que recebe nome e idade e retorna a string: A idade de ${nome} é ${idade};
